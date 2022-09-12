@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	padding: 20px;
+}
+
+a {
+	display: inline-block;
+	margin: 20px;
+	text-decoration: none;
+	padding: 8px 10px;
+	background-color: aqua;
+	border-radius: 5px;
+}
